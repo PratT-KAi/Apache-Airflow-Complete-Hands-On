@@ -1,6 +1,0 @@
-*.pid
-*.db
-__pycache__/
-logs/
-webserver_config.py
-*.cfg
